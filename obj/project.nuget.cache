@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0DjYEOw2If4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harshul Kumar Jangra\\source\\repos\\SimplePOS\\SimplePOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshul Kumar Jangra\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Harshul Kumar Jangra\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Harshul Kumar Jangra\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\Harshul Kumar Jangra\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

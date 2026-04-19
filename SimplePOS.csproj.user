@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillActionsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="BillEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillItemEditDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillListControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="BillListControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangeAdminPinControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ChangeCounterControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EditDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KeyboardDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KoTButtonsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumpadDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuantityDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesTabControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SearchItemDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SummaryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

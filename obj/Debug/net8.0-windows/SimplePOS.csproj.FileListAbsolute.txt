@@ -1,0 +1,93 @@
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.exe
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.deps.json
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.runtimeconfig.json
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.pdb
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.AssemblyReference.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.GenerateResource.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.AssemblyInfoInputs.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.AssemblyInfo.cs
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.CoreCompileInputs.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.Up2Date
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\refint\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.pdb
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.genruntimeconfig.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\ref\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.MainForm.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.AdminPanelForm.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.EditDialog.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.NumpadDialog.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.ChangeCounterControl.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.KoTButtonsControl.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.BillActionsControl.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\SimplePOS\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\SimplePOS.exe
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\SimplePOS.deps.json
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\SimplePOS.runtimeconfig.json
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\SimplePOS.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\SimplePOS.pdb
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\System.Management.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.csproj.AssemblyReference.cache
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.AdminPanelForm.resources
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.BillActionsControl.resources
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.ChangeCounterControl.resources
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.EditDialog.resources
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.KoTButtonsControl.resources
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.MainForm.resources
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.NumpadDialog.resources
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.csproj.GenerateResource.cache
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.GeneratedMSBuildEditorConfig.editorconfig
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.AssemblyInfoInputs.cache
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.AssemblyInfo.cs
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.csproj.CoreCompileInputs.cache
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.csproj.Up2Date
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\refint\SimplePOS.dll
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.pdb
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\SimplePOS.genruntimeconfig.cache
+E:\BJFF\SimplePOS [For 1920x1080 Resolution]\obj\Debug\net8.0-windows\ref\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.exe
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.deps.json
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.runtimeconfig.json
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\SimplePOS.pdb
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.AssemblyReference.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.AdminPanelForm.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.BillActionsControl.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.ChangeCounterControl.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.EditDialog.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.KoTButtonsControl.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.MainForm.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.NumpadDialog.resources
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.GenerateResource.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.AssemblyInfoInputs.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.AssemblyInfo.cs
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.CoreCompileInputs.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.csproj.Up2Date
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\refint\SimplePOS.dll
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.pdb
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\SimplePOS.genruntimeconfig.cache
+C:\Users\Harshul Kumar Jangra\source\repos\SimplePOS\obj\Debug\net8.0-windows\ref\SimplePOS.dll
