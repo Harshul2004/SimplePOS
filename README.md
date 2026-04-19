@@ -17,22 +17,39 @@ C#, SQLite database.
 
 # Project Structure
 SimplePOS/
+
 │── bin/
+
 │   └── debug/
+
 │       └── net8.0-windows/
+
 │           ├── menu.db
+
 │           ├── SimplePOS.exe
+
 │           ├── Necessary Files...
+
 │           └── runtimes/
+
 │               └── runtime files for win-x86, win-x64, linux-x64, win, osx-x64
+
 │── obj/
+
 │   ├── Debug/
+
 │   │   └── net8.0-windows/
+
 │   │       ├── ref/SimplePOS.dll
+
 │   │       ├── refint/SimplePOS.dll
+
 │   │       └── Necessary Files...
+
 │   └── Necessary Files...
+
 │── README.md
+
 └── Necessary Files...
 
 # Go into directory
