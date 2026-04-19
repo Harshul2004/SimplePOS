@@ -1,22 +1,22 @@
-📦 SimplePOS
+# SimplePOS
 
-🚀 Features
+# Features
 
 🔥 Invoice Generation.
 ⚡ Automated Sales Performance Metrics.
 🧠 Real-time Sales .
 🎯 Digital Receipt Generation, Customizable Product listings, and Support for Multiple Printers.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-# Frontend:
+Frontend:
 WinForms, WPF technologies.
 
-# Backend:
+Backend:
 C#, SQLite database.
 
-📂 Project Structure
-project-root/
+# Project Structure
+SimplePOS/
 │── bin/
 │   └── debug/
 │       └── net8.0-windows/
@@ -41,18 +41,18 @@ cd SimplePOS
 # Install dependencies
 npm install .NET Framework
 
-▶️ Usage
-# Run the project
+# Usage
+Run the project
 Double-click bin/debug/net8.0-windows/SimplePOS.exe
 
-📜 License
+# License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+# Acknowledgements
 Libraries / tools you used
 .NET Framework
 Microsoft Visual Studio Code 2022
 
-Inspiration sources
+# Inspiration sources
 Documentation of .NET Framework(https://learn.microsoft.com/en-us/dotnet/framework/)
 Documentation of C# Sharp(https://learn.microsoft.com/en-us/dotnet/csharp/)
