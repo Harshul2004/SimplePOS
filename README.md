@@ -47,6 +47,7 @@ npm install .NET Framework
 
 # Usage
 Run the project
+
 Double-click bin/debug/net8.0-windows/SimplePOS.exe
 
 # License
@@ -54,9 +55,12 @@ This project is licensed under the MIT License.
 
 # Acknowledgements
 Libraries / tools you used
+
 .NET Framework
+
 Microsoft Visual Studio Code 2022
 
 # Inspiration sources
 Documentation of .NET Framework(https://learn.microsoft.com/en-us/dotnet/framework/)
+
 Documentation of C# Sharp(https://learn.microsoft.com/en-us/dotnet/csharp/)
