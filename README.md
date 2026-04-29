@@ -1,66 +1,13 @@
-# SimplePOS
+Harshul Kumar Jangra (2210991645)
+Hemangi Batra (2210991650)
 
-# Features
+Project Title - SimplePOS
 
-🔥 Invoice Generation.
+Type - Copyright
 
-⚡ Automated Sales Performance Metrics.
-
-🧠 Real-time Sales.
-
-🎯 Digital Receipt Generation, Customizable Product listings, and Support for Multiple Printers.
-
-# 🛠️ Tech Stack
-
-Frontend:
-WinForms, WPF technologies.
-
-Backend:
-C#, SQLite database.
-
-# Project Structure
-```
-SimplePOS/
-│── bin/
-│   └── debug/
-│       └── net8.0-windows/
-│           ├── menu.db
-│           ├── SimplePOS.exe
-│           ├── Necessary Files...
-│           └── runtimes/
-│               └── runtime files for win-x86, win-x64, linux-x64, win, osx-x64
-│── obj/
-│   ├── Debug/
-│   │   └── net8.0-windows/
-│   │       ├── ref/SimplePOS.dll
-│   │       ├── refint/SimplePOS.dll
-│   │       └── Necessary Files...
-│   └── Necessary Files...
-│── README.md
-└── Necessary Files...
-```
-# Go into directory
-cd SimplePOS
-
-# Install dependencies
-Install .NET Framework with .NET version 4 or better.
-
-# Usage
-Run the project
-
-Double-click bin/debug/net8.0-windows/SimplePOS.exe
-
-# License
-This project is licensed under the MIT License.
-
-# Acknowledgements
-Libraries / tools you used
-
-.NET Framework
-
-Microsoft Visual Studio Code 2022
-
-# Inspiration sources
-Documentation of .NET Framework(https://learn.microsoft.com/en-us/dotnet/framework/)
-
-Documentation of C# Sharp(https://learn.microsoft.com/en-us/dotnet/csharp/)
+Current Status:
+The SimplePOS Billing Software has been successfully developed and completed with all planned features implemented.
+The project has been tested and is fully functional.
+The complete source code has been uploaded to GitHub for version control and access.
+The project has been officially filed for copyright protection.
+An acknowledgement letter as proof of copyright filing is included in the repository under the Github documents folder.
